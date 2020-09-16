@@ -11,3 +11,8 @@ Solenoid Valves
 https://dengarden.com/gardening/The-Complete-Guide-to-Hose-Fittings
 
 Complete guide to garden hose fittings. Guidance on tap thread sizes (3/4 inch).
+
+
+https://bc-robotics.com/tutorials/raspberry-pi-irrigation-control-part-1-2/
+
+Brill tutorial on the electronics and PI side of it.
