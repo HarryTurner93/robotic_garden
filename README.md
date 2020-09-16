@@ -7,3 +7,5 @@ The vision for this project is to produce an automated watering system for an ou
 
 - <b>[Requirements Model](https://github.com/HarryTurner93/robotic_garden/blob/master/requirements_model.md)</b>
 - <b>[Literature Review](https://github.com/HarryTurner93/robotic_garden/blob/master/literature_review.md)</b>
+- <b>[Bill of Materials](https://github.com/HarryTurner93/robotic_garden/blob/master/bill_of_materials.md)</b>
+- <b>[Architecture](https://github.com/HarryTurner93/robotic_garden/blob/master/architecture.md)</b>
