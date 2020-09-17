@@ -1,11 +1,23 @@
 # Vegetables
 
-## Onions
+## Onions - Winter
+https://www.suttons.co.uk/Gardening/Potatoes-Onions-Garlic/Growing-Onions-and-Shallots/Autumn-Planting-Onions-and-Shallots/Onion-Sets---Autumn-Champion_240670.htm#CMRTabs2
+https://www.gardenfocused.co.uk/vegetable/onions/autumn-plant.php
+
+#### Before: Dig in well rotted organic matter. Add 25g of general purpose fertiliser every square meter.
+#### Plant: October
+#### Harvest: June
+#### Water: None over winter.
+#### Fertilise: None over winter.
+#### Care: Hand weed reguarly, remove flower spikes as soon as you see them.
+
+
+## Onions - Summer
 https://www.rhs.org.uk/advice/grow-your-own/vegetables/onions
 
 #### Before: Dig in well rotted organic matter. Add 25g of general purpose fertiliser every square meter.
-#### Plant: Mid March
-#### Harvest: July
+#### Plant: March
+#### Harvest: June
 #### Water: If Dry. Stop when onions are swollen.
 #### Fertilise: Occasional feed with general liquid. Light feed of sulphate of potash in June to ripen. Stop when onions are swollen.
 #### Care: Hand weed reguarly, remove flower spikes as soon as you see them.
