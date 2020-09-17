@@ -1,18 +1,21 @@
 # Bill of Materials
 
-## Piping
+## Piping (3/4 in)
 - Solenoid. https://bc-robotics.com/shop/12v-solenoid-valve-34/
-- Tap to solenoid. https://uk.rs-online.com/web/p/flexible-hoses/7118509/
+- Tap to 3/4 in male. https://uk.rs-online.com/web/p/flexible-hoses/7118509/
 - Flexible Hose to Pipe. https://uk.rs-online.com/web/p/pvc-abs-threaded-fittings/2249588/
 - PVC pipes. https://uk.rs-online.com/web/p/pvc-pipes-plastic-pipes/4374894/
 - Elbow Connectors. https://uk.rs-online.com/web/p/pvc-pipe-fittings/2122635/
 - T-Connectors. https://uk.rs-online.com/web/p/pvc-pipe-fittings/2122792/
 - Solenoid to Pipe. https://uk.rs-online.com/web/p/pvc-pipe-fittings/2123509/
-- PVC Pipe to Hose Connector. https://int.rsdelivers.com/product/rs-pro/7308914019/elbow-male-hose-coupling-3-4in-3-4-in-bsp-male/0795326
-- Soaker Hose. https://www.amazon.co.uk/Clear-Braided-Internal-Diameter-Metres/dp/B016DTW22K
-- Hose plugs. https://uk.rs-online.com/web/p/pvc-pipe-fittings/2123688/
+- Straight 3/4 in pipe to 1/2 in hose connector. https://uk.rs-online.com/web/p/pvc-pipe-fittings/4327781/ and https://int.rsdelivers.com/product/rs-pro/7108913012/straight-male-hose-coupling-1-2in-1-2-in-bsp-male/0795203
 - Pipe Cement. https://www.amazon.co.uk/Black-Swan-PVC1-Cement-Clear/dp/B000HPRJIE/ref=sr_1_5?dchild=1&keywords=PVC+pipe+cement&qid=1596553924&sr=8-5
 - Pipe cutters. https://www.amazon.co.uk/Tooltoo-Plastic-Cutter-Cutting-Cutters/dp/B07JJD4LVQ/ref=sr_1_5?crid=1EZJW8GF043RE&dchild=1&keywords=pvc+pipe+cutter&qid=1596553963&sprefix=PVC+pipe+%2Caps%2C170&sr=8-5
+
+## Hosing (1/2 in)
+- Hose. https://int.rsdelivers.com/product/rs-pro/1228013000/rs-pro-25-long-black-blue-hose-pipe-applications/1467731
+- Hose Tee. https://uk.rs-online.com/web/p/hose-couplings/0795433/
+- Hose plugs. https://uk.rs-online.com/web/p/pvc-pipe-fittings/2123717/
 
 ## Electronics
 - Power Supply. https://www.amazon.co.uk/JnDeeTM-Supply-ADAPTER-Transformer-Powering/dp/B0086D9J00/ref=sr_1_8?crid=S8ZTQNYLF3S7&dchild=1&keywords=12v+3a+power+supply&qid=1600289648&sprefix=12v+3a+%2Caps%2C173&sr=8-8
