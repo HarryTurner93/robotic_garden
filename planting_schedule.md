@@ -15,7 +15,7 @@ https://www.rhs.org.uk/advice/grow-your-own/vegetables/onions
 https://www.rhs.org.uk/advice/grow-your-own/vegetables/garlic
 
 #### Before: Dig in well rotted organic matter. Add 25g of general purpose fertiliser every square meter.
-#### Plant: November
+#### Plant: October
 #### Harvest: June
 #### Water: If Dry. Stop when bulbs are large (or yellow leaves) as it encourages rotting.
 #### Fertilise: ?
