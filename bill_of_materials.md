@@ -2,7 +2,7 @@
 
 ## Piping (3/4 in)
 - Solenoid. https://bc-robotics.com/shop/12v-solenoid-valve-34/
-- Tap to 3/4 in male. https://uk.rs-online.com/web/p/flexible-hoses/7118509/
+- Flexible Hose. https://uk.rs-online.com/web/p/flexible-hoses/7118509/
 - Flexible Hose to Pipe. https://uk.rs-online.com/web/p/pvc-abs-threaded-fittings/2249588/
 - PVC pipes. https://uk.rs-online.com/web/p/pvc-pipes-plastic-pipes/4374894/
 - Elbow Connectors. https://uk.rs-online.com/web/p/pvc-pipe-fittings/2122635/
