@@ -13,7 +13,7 @@
 - Pipe cutters. https://www.amazon.co.uk/Tooltoo-Plastic-Cutter-Cutting-Cutters/dp/B07JJD4LVQ/ref=sr_1_5?crid=1EZJW8GF043RE&dchild=1&keywords=pvc+pipe+cutter&qid=1596553963&sprefix=PVC+pipe+%2Caps%2C170&sr=8-5
 
 ## Hosing (1/2 in)
-- Hose. https://int.rsdelivers.com/product/rs-pro/1228013000/rs-pro-25-long-black-blue-hose-pipe-applications/1467731
+- Hose. https://www.amazon.co.uk/gp/huc/view.html?ie=UTF8&newItems=C6bd510f6-badd-4f76-b095-5907e037375c%2C1
 - Hose Tee. https://uk.rs-online.com/web/p/hose-couplings/0795433/
 - Hose plugs. https://uk.rs-online.com/web/p/pvc-pipe-fittings/2123717/
 
